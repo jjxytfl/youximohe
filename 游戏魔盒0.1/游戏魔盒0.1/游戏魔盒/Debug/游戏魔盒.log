@@ -1,0 +1,28 @@
+﻿生成启动时间为 2020/12/7 星期一 12:08:54。
+     1>项目“C:\Users\Administrator\Desktop\游戏魔盒\游戏魔盒\游戏魔盒\游戏魔盒.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _CRT_SECURE_NO_DEPRECATE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt Play_Dxc.c PlayMoHe.c Play_Tcs.c Play_Xxl.c
+         Play_Xxl.c
+     1>c:\users\administrator\desktop\游戏魔盒\游戏魔盒\游戏魔盒\play_xxl.c(161): warning C4101: “a”: 未引用的局部变量
+         Play_Tcs.c
+         PlayMoHe.c
+     1>c:\users\administrator\desktop\游戏魔盒\游戏魔盒\游戏魔盒\playmohe.c(17): warning C4013: “system”未定义；假设外部返回 int
+         Play_Dxc.c
+     1>c:\users\administrator\desktop\游戏魔盒\游戏魔盒\游戏魔盒\play_dxc.c(36): warning C4047: “函数”:“int (*)[5]”与“int [5]”的间接级别不同
+     1>c:\users\administrator\desktop\游戏魔盒\游戏魔盒\游戏魔盒\play_dxc.c(36): warning C4024: “Dxc_setmap”: 形参和实参 1 的类型不同
+     1>c:\users\administrator\desktop\游戏魔盒\游戏魔盒\游戏魔盒\play_dxc.c(42): warning C4047: “函数”:“int (*)[5]”与“int [5]”的间接级别不同
+     1>c:\users\administrator\desktop\游戏魔盒\游戏魔盒\游戏魔盒\play_dxc.c(42): warning C4024: “Dxc_getmap”: 形参和实参 1 的类型不同
+     1>c:\users\administrator\desktop\游戏魔盒\游戏魔盒\游戏魔盒\play_dxc.c(43): warning C4047: “函数”:“int (*)[5]”与“int [5]”的间接级别不同
+     1>c:\users\administrator\desktop\游戏魔盒\游戏魔盒\游戏魔盒\play_dxc.c(43): warning C4024: “Dxc_move”: 形参和实参 1 的类型不同
+         正在生成代码...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Administrator\Desktop\游戏魔盒\游戏魔盒\Debug\游戏魔盒.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Administrator\Desktop\游戏魔盒\游戏魔盒\Debug\游戏魔盒.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Administrator\Desktop\游戏魔盒\游戏魔盒\Debug\游戏魔盒.lib" /MACHINE:X86 Debug\Play_Dxc.obj
+         Debug\PlayMoHe.obj
+         Debug\Play_Tcs.obj
+         Debug\Play_Xxl.obj
+         游戏魔盒.vcxproj -> C:\Users\Administrator\Desktop\游戏魔盒\游戏魔盒\Debug\游戏魔盒.exe
+     1>已完成生成项目“C:\Users\Administrator\Desktop\游戏魔盒\游戏魔盒\游戏魔盒\游戏魔盒.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.76
